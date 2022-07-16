@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**Big-Vi/Big-Vi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vignesh, I am a **Senior Developer** passionate about developing performant, Well-Architected applications. 
 
-Here are some ideas to get you started:
+I worked with various programming languages, frameworks & databases:
+ - Golang
+ - Python(Flask)
+ - PHP(Craft, Silverstripe & Wordpress CMS)
+ - Javascript(React, React native & Vue)
+ - Databases - NoSQL(Realm.io & DynamoDB), SQL(Postgres)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But I'm striving to specialize in Golang, Postgres, React, Typescript & Cloud technologies.
+
+You can find my blog [here](https://vigneshmurugan.dev)`
+
+---
+
+- 🔭 I'm currently working on:
+  - [`AWS Certified Developer exam`](https://aws.amazon.com/certification/certified-developer-associate/)
+- 🌱 I'm currently learning:
+  - [Golang](https://go.dev/`
+  - DevOps skills:
+      - [Docker](https://www.docker.com/)
+      - [Kubernetes](https://kubernetes.io/)
+      - [Microservices](https://samnewman.io/books/building_microservices/)
+- 👯 I’m looking to collaborate on:
+      - Projects that help the Golang developer community.
+- 📫 How to reach me and connect:
+      - [<img src="linkedin.svg" width="20" height="20" alt="LinkedIn">](https://www.linkedin.com/in/vigneshmurugan/)
+- 📖 Reading list:
+      - [Building Microservices by Sam Newman](https://samnewman.io/books/building_microservices/) 
+      - Domain-Driven Design Distilled by Vaughn Vernon
+      - Concurrency in Go by Cox-Buday & Katherine
