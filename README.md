@@ -24,10 +24,10 @@ You can find my blog [here](https://vigneshmurugan.dev)
       - [Kubernetes](https://kubernetes.io/)
       - [Microservices](https://samnewman.io/books/building_microservices/)
 - 👯 I’m looking to collaborate on:
-      - Projects that help the Golang developer community.
+  - Projects that help the Golang developer community.
 - 📫 How to reach me and connect:
-      - [LinkedIn](https://www.linkedin.com/in/vigneshmurugan/)
+  - [LinkedIn](https://www.linkedin.com/in/vigneshmurugan/)
 - 📖 Reading list:
-      - [Building Microservices by Sam Newman](https://samnewman.io/books/building_microservices/) 
-      - Domain-Driven Design Distilled by Vaughn Vernon
-      - Concurrency in Go by Cox-Buday & Katherine
+  - [Building Microservices by Sam Newman](https://samnewman.io/books/building_microservices/) 
+  - Domain-Driven Design Distilled by Vaughn Vernon
+  - Concurrency in Go by Cox-Buday & Katherine
