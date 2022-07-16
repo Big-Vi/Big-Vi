@@ -8,6 +8,7 @@ I worked with various programming languages, frameworks & databases:
  - PHP(Craft, Silverstripe & Wordpress CMS)
  - Javascript(React, React native & Vue)
  - Databases - NoSQL(Realm.io & DynamoDB), SQL(Postgres)
+ - Headless E-Commerce(Sanity.io, Next.JS & Shopify)
 
 But I'm striving to specialize in Golang, Postgres, React, Typescript & Cloud technologies.
 
