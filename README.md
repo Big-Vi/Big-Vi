@@ -24,6 +24,7 @@ You can find my blog [here](https://vigneshmurugan.dev)
       - [Docker](https://www.docker.com/)
       - [Kubernetes](https://kubernetes.io/)
       - [Microservices](https://samnewman.io/books/building_microservices/)
+      - [AWS](https://aws.amazon.com/)
 - 👯 I’m looking to collaborate on:
   - Projects that help the Golang developer community.
 - 📫 How to reach me and connect:
