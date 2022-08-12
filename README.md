@@ -10,7 +10,7 @@ I worked with various programming languages, frameworks & databases:
  - Databases - NoSQL(Realm.io & DynamoDB), SQL(Postgres)
  - Headless E-Commerce(Sanity.io, Next.JS & Shopify)
 
-But I'm striving to specialize in Golang, Postgres, React, Typescript & Cloud technologies.
+But I'm striving to specialize in Golang, Python, Postgres, React, Typescript & Cloud technologies.
 
 You can find my blog [here](https://vigneshmurugan.dev)
 
