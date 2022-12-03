@@ -19,6 +19,7 @@ You can find my blog [here](https://vigneshmurugan.dev)
 - 🔭 I'm currently working on:
   - [`AWS Certified Developer - Associate`](https://aws.amazon.com/certification/certified-developer-associate/) - :white_check_mark: Passed - [`Badge`](https://www.credly.com/badges/b0051c96-1c01-4ac3-a2a6-49400454c7a7/public_url)
   - [`LFCS - Linux Foundation Certified System Administrator`](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) - :white_check_mark: Passed - [`Badge`](Badges/LFCS-Vignesh-Murugan.pdf)
+  - [`AWS Certified SysOps Administrator - Associate`](https://aws.amazon.com/certification/certified-sysops-admin-associate/) - :white_check_mark: Passed - [`Badge`](https://www.credly.com/badges/26627e09-3684-486c-9239-cef1a8505ba0/public_url)
   - [`AWS Certified DevOps Engineer - Professional`](https://aws.amazon.com/certification/certified-devops-engineer-professional/) - 
 In Progress
 - 🌱 I'm currently learning:
