@@ -10,7 +10,9 @@ I worked with various programming languages, frameworks & databases:
  - Databases - NoSQL(Realm.io & DynamoDB), SQL(Postgres)
  - Headless E-Commerce(Sanity.io, Next.JS & Shopify)
 
-But I'm striving to specialize in Golang, Python, Postgres, React, Typescript & Cloud technologies.
+But I'm striving to specialize in Golang, Python, Postgres & Cloud technologies.
+
+I'm AWS Certified DevOps Engineer - Professional.
 
 You can find my blog [here](https://vigneshmurugan.dev)
 
@@ -20,8 +22,9 @@ You can find my blog [here](https://vigneshmurugan.dev)
   - [`AWS Certified Developer - Associate`](https://aws.amazon.com/certification/certified-developer-associate/) - :white_check_mark: Passed - [`Badge`](https://www.credly.com/badges/b0051c96-1c01-4ac3-a2a6-49400454c7a7/public_url)
   - [`LFCS - Linux Foundation Certified System Administrator`](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) - :white_check_mark: Passed - [`Badge`](https://www.credly.com/badges/5db4950f-dce2-465b-bc4e-c549b391e299/public_url)
   - [`AWS Certified SysOps Administrator - Associate`](https://aws.amazon.com/certification/certified-sysops-admin-associate/) - :white_check_mark: Passed - [`Badge`](https://www.credly.com/badges/26627e09-3684-486c-9239-cef1a8505ba0/public_url)
-  - [`AWS Certified DevOps Engineer - Professional`](https://aws.amazon.com/certification/certified-devops-engineer-professional/) - 
-In Progress
+  - [`AWS Certified DevOps Engineer - Professional`](https://aws.amazon.com/certification/certified-devops-engineer-professional/) - :white_check_mark: Passed - [`Badge`](https://www.credly.com/badges/2e026620-ffd3-4da9-b612-a9314481dca3/public_url)
+  - [`Certified Kubernetes Administrator (CKA)
+`](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) - In Progress
 - 🌱 I'm currently learning:
   - [Golang](https://go.dev/)
   - DevOps skills:
@@ -34,6 +37,7 @@ In Progress
 - 📫 How to reach me and connect:
   - [LinkedIn](https://www.linkedin.com/in/vigneshmurugan/)
 - 📖 Reading list:
+  - The DevOps Handbook by Gene Kim
   - [Building Microservices by Sam Newman](https://samnewman.io/books/building_microservices/) 
   - Domain-Driven Design Distilled by Vaughn Vernon
   - Concurrency in Go by Cox-Buday & Katherine
