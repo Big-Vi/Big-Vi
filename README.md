@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Vignesh, I am a **Senior Developer** passionate about developing performant, Well-Architected applications. 
+I am Vignesh & **Senior Developer** passionate about developing performant, Well-Architected applications. 
 
 I worked with various programming languages, frameworks & databases:
  - Golang
@@ -24,7 +24,8 @@ You can find my blog [here](https://vigneshmurugan.dev)
   - [`AWS Certified SysOps Administrator - Associate`](https://aws.amazon.com/certification/certified-sysops-admin-associate/) - :white_check_mark: Passed - `Dec 2022` - [`Badge`](https://www.credly.com/badges/26627e09-3684-486c-9239-cef1a8505ba0/public_url)
   - [`AWS Certified DevOps Engineer - Professional`](https://aws.amazon.com/certification/certified-devops-engineer-professional/) - :white_check_mark: Passed - `Mar 2023` - [`Badge`](https://www.credly.com/badges/2e026620-ffd3-4da9-b612-a9314481dca3/public_url)
   - [`Certified Kubernetes Administrator (CKA)
-`](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) - In Progress
+`](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) - :white_check_mark: Passed - `April 2023` - [`Badge`](https://www.credly.com/badges/0877d356-9546-4dad-b9de-63cac71df43d/public_url)
+  - [`Certified Kubernetes Security Specialist (CKS)`](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) - In Progress
 - 🌱 I'm currently learning:
   - [Golang](https://go.dev/)
   - DevOps skills:
