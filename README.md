@@ -18,6 +18,10 @@ You can find my blog [here](https://vigneshmurugan.dev)
 
 ---
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=big-vi&show_icons=true&theme=dark)](https://github.com/big-vi/github-readme-stats)
+
+---
+
 - 🔭 I'm currently working on:
   - [`AWS Certified Developer - Associate`](https://aws.amazon.com/certification/certified-developer-associate/) - :white_check_mark: Passed - `Jul 2022` - [`Badge`](https://www.credly.com/badges/b0051c96-1c01-4ac3-a2a6-49400454c7a7/public_url)
   - [`LFCS - Linux Foundation Certified System Administrator`](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) - :white_check_mark: Passed - `Nov 2022` - [`Badge`](https://www.credly.com/badges/5db4950f-dce2-465b-bc4e-c549b391e299/public_url)
